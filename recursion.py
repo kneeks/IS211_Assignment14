@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-IS211 - Week 14 Assignemtn Recursion
+IS211 - Week 14 Assignment Recursion
 """
 
 def fibonnaci(n):
